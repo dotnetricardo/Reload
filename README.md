@@ -6,7 +6,6 @@ Reload is very simplistic, it's goal is to automaticallu refresh your developmen
 
 Once installed you will see the Reload menu option in the Visual Studio toolbar. Just select the browser(s) you want to sync with file changes and also select which file extensions to watch for.
 
-That's is nothing else.
-
 Currently only Chrome, Firefox and IE are supported.
  
+That's is nothing else.
