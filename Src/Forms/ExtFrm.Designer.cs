@@ -1,4 +1,4 @@
-﻿namespace ShapeFX.Reload.Forms
+﻿namespace Reload.Forms
 {
     partial class ExtFrm
     {

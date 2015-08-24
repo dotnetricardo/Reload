@@ -4,3 +4,9 @@ C:\Users\Ricardo\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Shape\S
 C:\Users\Ricardo\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Shape\ShapeFX.Reload\1.0\\extension.vsixmanifest
 C:\Users\Ricardo\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Shape\ShapeFX.Reload\1.0\\refresh.vbs
 C:\Users\Ricardo\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Shape\ShapeFX.Reload\1.0\\Reload.pdb
+C:\Users\Ricardo\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Shape\Reload\1.0\\Reload.dll
+C:\Users\Ricardo\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Shape\Reload\1.0\\Newtonsoft.Json.dll
+C:\Users\Ricardo\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Shape\Reload\1.0\\Reload.pkgdef
+C:\Users\Ricardo\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Shape\Reload\1.0\\extension.vsixmanifest
+C:\Users\Ricardo\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Shape\Reload\1.0\\refresh.vbs
+C:\Users\Ricardo\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Shape\Reload\1.0\\Reload.pdb

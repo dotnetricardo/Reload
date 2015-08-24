@@ -1,13 +1,8 @@
-﻿namespace ShapeFX.Reload.Forms
+﻿using System;
+using System.Windows.Forms;
+
+namespace Reload.Forms
 {
-    using System;
-    using System.IO;
-    using System.Reflection;
-    using System.Text;
-    using System.Threading.Tasks;
-    using System.Windows.Forms;
-
-
     public partial class ExtFrm : Form
     {
         public ExtFrm()

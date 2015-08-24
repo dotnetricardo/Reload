@@ -1,8 +1,9 @@
 ﻿// Guids.cs
 // MUST match guids.h
+
 using System;
 
-namespace ShapeFx.Shape_Package
+namespace Reload
 {
     static class GuidList
     {

@@ -11,9 +11,7 @@ using System.Windows.Forms;
 using EnvDTE;
 using EnvDTE80;
 using Microsoft.VisualStudio.Shell;
-using ShapeFx.Shape_Package;
-using ShapeFX.Reload;
-using ShapeFX.Reload.Forms;
+using Reload.Forms;
 
 namespace Reload
 {
