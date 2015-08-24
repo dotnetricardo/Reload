@@ -1,0 +1,252 @@
+C:\Users\RBarbosa\Desktop\latestngreatest\develop\ShapeFX.Reload\ShapeFX.Reload\bin\Debug\refresh.vbs
+C:\Users\RBarbosa\Desktop\latestngreatest\develop\ShapeFX.Reload\ShapeFX.Reload\bin\Debug\ShapeFX.Reload.dll
+C:\Users\RBarbosa\Desktop\latestngreatest\develop\ShapeFX.Reload\ShapeFX.Reload\bin\Debug\ShapeFX.Reload.pdb
+C:\Users\RBarbosa\Desktop\latestngreatest\develop\ShapeFX.Reload\ShapeFX.Reload\bin\Debug\ShapeFX.Reload.pkgdef
+C:\Users\RBarbosa\Desktop\latestngreatest\develop\ShapeFX.Reload\ShapeFX.Reload\bin\Debug\ShapeFX.Reload.vsix
+C:\Users\RBarbosa\Desktop\latestngreatest\develop\ShapeFX.Reload\ShapeFX.Reload\bin\Debug\extension.vsixmanifest
+C:\Users\RBarbosa\Desktop\latestngreatest\develop\ShapeFX.Reload\ShapeFX.Reload\bin\Debug\Newtonsoft.Json.dll
+C:\Users\RBarbosa\Desktop\latestngreatest\develop\ShapeFX.Reload\ShapeFX.Reload\bin\Debug\ShapeFX.GlobalUtils.dll
+C:\Users\RBarbosa\Desktop\latestngreatest\develop\ShapeFX.Reload\ShapeFX.Reload\bin\Debug\ShapeFX.GlobalUtils.pdb
+C:\Users\RBarbosa\Desktop\latestngreatest\develop\ShapeFX.Reload\ShapeFX.Reload\bin\Debug\Newtonsoft.Json.xml
+C:\Users\RBarbosa\Desktop\latestngreatest\develop\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\ShapeFX.Reload.csprojResolveAssemblyReference.cache
+C:\Users\RBarbosa\Desktop\latestngreatest\develop\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\ShapeFX.Reload.csproj.ResolveComReference.cache
+C:\Users\RBarbosa\Desktop\latestngreatest\develop\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\ShapeFX.Reload.g.resources
+C:\Users\RBarbosa\Desktop\latestngreatest\develop\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\VSPackage.resources
+C:\Users\RBarbosa\Desktop\latestngreatest\develop\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\ShapeFX.Reload.Forms.AboutFrm.resources
+C:\Users\RBarbosa\Desktop\latestngreatest\develop\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\ShapeFX.Reload.Forms.LicenseInfoFrm.resources
+C:\Users\RBarbosa\Desktop\latestngreatest\develop\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\ShapeFX.Reload.Resource1.resources
+C:\Users\RBarbosa\Desktop\latestngreatest\develop\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\ShapeFX.Reload.csproj.GenerateResource.Cache
+C:\Users\RBarbosa\Desktop\latestngreatest\develop\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\Reload.cto
+C:\Users\RBarbosa\Desktop\latestngreatest\develop\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\VSCT.read.1.tlog
+C:\Users\RBarbosa\Desktop\latestngreatest\develop\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\VSCT.write.1.tlog
+C:\Users\RBarbosa\Desktop\latestngreatest\develop\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\CtoResourceMerger.cache
+C:\Users\RBarbosa\Desktop\latestngreatest\develop\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\VSPackage.resources.original
+C:\Users\RBarbosa\Desktop\latestngreatest\develop\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\ShapeFX.Reload.dll
+C:\Users\RBarbosa\Desktop\latestngreatest\develop\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\ShapeFX.Reload.pdb
+C:\Users\RBarbosa\Desktop\latestngreatest\develop\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\ShapeFX.Reload.pkgdef
+C:\Users\RBarbosa\Desktop\latestngreatest\develop\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\ShapeFX.Reload.latest.pkgdef
+C:\Users\RBarbosa\Desktop\latestngreatest\develop\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\extension.vsixmanifest
+C:\Users\Ricardo\Desktop\beta\develop\ShapeFX.Reload\ShapeFX.Reload\bin\Debug\refresh.vbs
+C:\Users\Ricardo\Desktop\beta\develop\ShapeFX.Reload\ShapeFX.Reload\bin\Debug\ShapeFX.Reload.dll
+C:\Users\Ricardo\Desktop\beta\develop\ShapeFX.Reload\ShapeFX.Reload\bin\Debug\ShapeFX.Reload.pdb
+C:\Users\Ricardo\Desktop\beta\develop\ShapeFX.Reload\ShapeFX.Reload\bin\Debug\ShapeFX.Reload.pkgdef
+C:\Users\Ricardo\Desktop\beta\develop\ShapeFX.Reload\ShapeFX.Reload\bin\Debug\ShapeFX.Reload.vsix
+C:\Users\Ricardo\Desktop\beta\develop\ShapeFX.Reload\ShapeFX.Reload\bin\Debug\extension.vsixmanifest
+C:\Users\Ricardo\Desktop\beta\develop\ShapeFX.Reload\ShapeFX.Reload\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ricardo\Desktop\beta\develop\ShapeFX.Reload\ShapeFX.Reload\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ricardo\Desktop\beta\develop\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\ShapeFX.Reload.csprojResolveAssemblyReference.cache
+C:\Users\Ricardo\Desktop\beta\develop\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\ShapeFX.Reload.csproj.ResolveComReference.cache
+C:\Users\Ricardo\Desktop\beta\develop\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\ShapeFX.Reload.g.resources
+C:\Users\Ricardo\Desktop\beta\develop\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\VSPackage.resources
+C:\Users\Ricardo\Desktop\beta\develop\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\ShapeFX.Reload.Forms.AboutFrm.resources
+C:\Users\Ricardo\Desktop\beta\develop\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\ShapeFX.Reload.Resource1.resources
+C:\Users\Ricardo\Desktop\beta\develop\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\ShapeFX.Reload.csproj.GenerateResource.Cache
+C:\Users\Ricardo\Desktop\beta\develop\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\Reload.cto
+C:\Users\Ricardo\Desktop\beta\develop\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\VSCT.read.1.tlog
+C:\Users\Ricardo\Desktop\beta\develop\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\VSCT.write.1.tlog
+C:\Users\Ricardo\Desktop\beta\develop\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\CtoResourceMerger.cache
+C:\Users\Ricardo\Desktop\beta\develop\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\VSPackage.resources.original
+C:\Users\Ricardo\Desktop\beta\develop\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\ShapeFX.Reload.dll
+C:\Users\Ricardo\Desktop\beta\develop\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\ShapeFX.Reload.pdb
+C:\Users\Ricardo\Desktop\beta\develop\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\ShapeFX.Reload.pkgdef
+C:\Users\Ricardo\Desktop\beta\develop\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\ShapeFX.Reload.latest.pkgdef
+C:\Users\Ricardo\Desktop\beta\develop\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\extension.vsixmanifest
+C:\Users\RBarbosa\Desktop\refactor\develop\ShapeFX.Reload\ShapeFX.Reload\bin\Debug\refresh.vbs
+C:\Users\RBarbosa\Desktop\refactor\develop\ShapeFX.Reload\ShapeFX.Reload\bin\Debug\ShapeFX.Reload.dll
+C:\Users\RBarbosa\Desktop\refactor\develop\ShapeFX.Reload\ShapeFX.Reload\bin\Debug\ShapeFX.Reload.pdb
+C:\Users\RBarbosa\Desktop\refactor\develop\ShapeFX.Reload\ShapeFX.Reload\bin\Debug\ShapeFX.Reload.pkgdef
+C:\Users\RBarbosa\Desktop\refactor\develop\ShapeFX.Reload\ShapeFX.Reload\bin\Debug\ShapeFX.Reload.vsix
+C:\Users\RBarbosa\Desktop\refactor\develop\ShapeFX.Reload\ShapeFX.Reload\bin\Debug\extension.vsixmanifest
+C:\Users\RBarbosa\Desktop\refactor\develop\ShapeFX.Reload\ShapeFX.Reload\bin\Debug\Newtonsoft.Json.dll
+C:\Users\RBarbosa\Desktop\refactor\develop\ShapeFX.Reload\ShapeFX.Reload\bin\Debug\Newtonsoft.Json.xml
+C:\Users\RBarbosa\Desktop\refactor\develop\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\ShapeFX.Reload.csprojResolveAssemblyReference.cache
+C:\Users\RBarbosa\Desktop\refactor\develop\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\ShapeFX.Reload.csproj.ResolveComReference.cache
+C:\Users\RBarbosa\Desktop\refactor\develop\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\ShapeFX.Reload.g.resources
+C:\Users\RBarbosa\Desktop\refactor\develop\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\VSPackage.resources
+C:\Users\RBarbosa\Desktop\refactor\develop\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\ShapeFX.Reload.Forms.AboutFrm.resources
+C:\Users\RBarbosa\Desktop\refactor\develop\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\ShapeFX.Reload.Resource1.resources
+C:\Users\RBarbosa\Desktop\refactor\develop\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\ShapeFX.Reload.csproj.GenerateResource.Cache
+C:\Users\RBarbosa\Desktop\refactor\develop\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\Reload.cto
+C:\Users\RBarbosa\Desktop\refactor\develop\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\VSCT.read.1.tlog
+C:\Users\RBarbosa\Desktop\refactor\develop\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\VSCT.write.1.tlog
+C:\Users\RBarbosa\Desktop\refactor\develop\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\CtoResourceMerger.cache
+C:\Users\RBarbosa\Desktop\refactor\develop\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\VSPackage.resources.original
+C:\Users\RBarbosa\Desktop\refactor\develop\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\ShapeFX.Reload.dll
+C:\Users\RBarbosa\Desktop\refactor\develop\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\ShapeFX.Reload.pdb
+C:\Users\RBarbosa\Desktop\refactor\develop\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\ShapeFX.Reload.pkgdef
+C:\Users\RBarbosa\Desktop\refactor\develop\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\ShapeFX.Reload.latest.pkgdef
+C:\Users\RBarbosa\Desktop\refactor\develop\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\extension.vsixmanifest
+C:\Users\RBarbosa\Desktop\aqui\develop\ShapeFX.Reload\ShapeFX.Reload\bin\Debug\refresh.vbs
+C:\Users\RBarbosa\Desktop\aqui\develop\ShapeFX.Reload\ShapeFX.Reload\bin\Debug\ShapeFX.Reload.dll
+C:\Users\RBarbosa\Desktop\aqui\develop\ShapeFX.Reload\ShapeFX.Reload\bin\Debug\ShapeFX.Reload.pdb
+C:\Users\RBarbosa\Desktop\aqui\develop\ShapeFX.Reload\ShapeFX.Reload\bin\Debug\ShapeFX.Reload.pkgdef
+C:\Users\RBarbosa\Desktop\aqui\develop\ShapeFX.Reload\ShapeFX.Reload\bin\Debug\ShapeFX.Reload.vsix
+C:\Users\RBarbosa\Desktop\aqui\develop\ShapeFX.Reload\ShapeFX.Reload\bin\Debug\extension.vsixmanifest
+C:\Users\RBarbosa\Desktop\aqui\develop\ShapeFX.Reload\ShapeFX.Reload\bin\Debug\Newtonsoft.Json.dll
+C:\Users\RBarbosa\Desktop\aqui\develop\ShapeFX.Reload\ShapeFX.Reload\bin\Debug\Newtonsoft.Json.xml
+C:\Users\RBarbosa\Desktop\aqui\develop\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\ShapeFX.Reload.csprojResolveAssemblyReference.cache
+C:\Users\RBarbosa\Desktop\aqui\develop\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\ShapeFX.Reload.csproj.ResolveComReference.cache
+C:\Users\RBarbosa\Desktop\aqui\develop\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\ShapeFX.Reload.g.resources
+C:\Users\RBarbosa\Desktop\aqui\develop\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\VSPackage.resources
+C:\Users\RBarbosa\Desktop\aqui\develop\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\ShapeFX.Reload.Forms.AboutFrm.resources
+C:\Users\RBarbosa\Desktop\aqui\develop\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\ShapeFX.Reload.Resource1.resources
+C:\Users\RBarbosa\Desktop\aqui\develop\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\ShapeFX.Reload.csproj.GenerateResource.Cache
+C:\Users\RBarbosa\Desktop\aqui\develop\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\Reload.cto
+C:\Users\RBarbosa\Desktop\aqui\develop\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\VSCT.read.1.tlog
+C:\Users\RBarbosa\Desktop\aqui\develop\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\VSCT.write.1.tlog
+C:\Users\RBarbosa\Desktop\aqui\develop\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\CtoResourceMerger.cache
+C:\Users\RBarbosa\Desktop\aqui\develop\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\VSPackage.resources.original
+C:\Users\RBarbosa\Desktop\aqui\develop\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\ShapeFX.Reload.dll
+C:\Users\RBarbosa\Desktop\aqui\develop\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\ShapeFX.Reload.pdb
+C:\Users\RBarbosa\Desktop\aqui\develop\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\ShapeFX.Reload.pkgdef
+C:\Users\RBarbosa\Desktop\aqui\develop\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\ShapeFX.Reload.latest.pkgdef
+C:\Users\RBarbosa\Desktop\aqui\develop\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\extension.vsixmanifest
+C:\Users\RBarbosa\Desktop\aqui3\develop\ShapeFX.Reload\ShapeFX.Reload\bin\Debug\refresh.vbs
+C:\Users\RBarbosa\Desktop\aqui3\develop\ShapeFX.Reload\ShapeFX.Reload\bin\Debug\ShapeFX.Reload.dll
+C:\Users\RBarbosa\Desktop\aqui3\develop\ShapeFX.Reload\ShapeFX.Reload\bin\Debug\ShapeFX.Reload.pdb
+C:\Users\RBarbosa\Desktop\aqui3\develop\ShapeFX.Reload\ShapeFX.Reload\bin\Debug\ShapeFX.Reload.pkgdef
+C:\Users\RBarbosa\Desktop\aqui3\develop\ShapeFX.Reload\ShapeFX.Reload\bin\Debug\ShapeFX.Reload.vsix
+C:\Users\RBarbosa\Desktop\aqui3\develop\ShapeFX.Reload\ShapeFX.Reload\bin\Debug\extension.vsixmanifest
+C:\Users\RBarbosa\Desktop\aqui3\develop\ShapeFX.Reload\ShapeFX.Reload\bin\Debug\Newtonsoft.Json.dll
+C:\Users\RBarbosa\Desktop\aqui3\develop\ShapeFX.Reload\ShapeFX.Reload\bin\Debug\Newtonsoft.Json.xml
+C:\Users\RBarbosa\Desktop\aqui3\develop\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\ShapeFX.Reload.csprojResolveAssemblyReference.cache
+C:\Users\RBarbosa\Desktop\aqui3\develop\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\ShapeFX.Reload.csproj.ResolveComReference.cache
+C:\Users\RBarbosa\Desktop\aqui3\develop\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\ShapeFX.Reload.g.resources
+C:\Users\RBarbosa\Desktop\aqui3\develop\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\VSPackage.resources
+C:\Users\RBarbosa\Desktop\aqui3\develop\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\ShapeFX.Reload.Forms.AboutFrm.resources
+C:\Users\RBarbosa\Desktop\aqui3\develop\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\ShapeFX.Reload.Resource1.resources
+C:\Users\RBarbosa\Desktop\aqui3\develop\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\ShapeFX.Reload.csproj.GenerateResource.Cache
+C:\Users\RBarbosa\Desktop\aqui3\develop\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\Reload.cto
+C:\Users\RBarbosa\Desktop\aqui3\develop\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\VSCT.read.1.tlog
+C:\Users\RBarbosa\Desktop\aqui3\develop\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\VSCT.write.1.tlog
+C:\Users\RBarbosa\Desktop\aqui3\develop\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\CtoResourceMerger.cache
+C:\Users\RBarbosa\Desktop\aqui3\develop\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\VSPackage.resources.original
+C:\Users\RBarbosa\Desktop\aqui3\develop\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\ShapeFX.Reload.dll
+C:\Users\RBarbosa\Desktop\aqui3\develop\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\ShapeFX.Reload.pdb
+C:\Users\RBarbosa\Desktop\aqui3\develop\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\ShapeFX.Reload.pkgdef
+C:\Users\RBarbosa\Desktop\aqui3\develop\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\ShapeFX.Reload.latest.pkgdef
+C:\Users\RBarbosa\Desktop\aqui3\develop\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\extension.vsixmanifest
+C:\Users\Ricardo\Documents\bitbucket\develop\ShapeFX.Reload\ShapeFX.Reload\bin\Debug\refresh.vbs
+C:\Users\Ricardo\Documents\bitbucket\develop\ShapeFX.Reload\ShapeFX.Reload\bin\Debug\ShapeFX.Reload.dll
+C:\Users\Ricardo\Documents\bitbucket\develop\ShapeFX.Reload\ShapeFX.Reload\bin\Debug\ShapeFX.Reload.pdb
+C:\Users\Ricardo\Documents\bitbucket\develop\ShapeFX.Reload\ShapeFX.Reload\bin\Debug\ShapeFX.Reload.pkgdef
+C:\Users\Ricardo\Documents\bitbucket\develop\ShapeFX.Reload\ShapeFX.Reload\bin\Debug\ShapeFX.Reload.vsix
+C:\Users\Ricardo\Documents\bitbucket\develop\ShapeFX.Reload\ShapeFX.Reload\bin\Debug\extension.vsixmanifest
+C:\Users\Ricardo\Documents\bitbucket\develop\ShapeFX.Reload\ShapeFX.Reload\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ricardo\Documents\bitbucket\develop\ShapeFX.Reload\ShapeFX.Reload\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ricardo\Documents\bitbucket\develop\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\ShapeFX.Reload.csprojResolveAssemblyReference.cache
+C:\Users\Ricardo\Documents\bitbucket\develop\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\ShapeFX.Reload.csproj.ResolveComReference.cache
+C:\Users\Ricardo\Documents\bitbucket\develop\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\ShapeFX.Reload.g.resources
+C:\Users\Ricardo\Documents\bitbucket\develop\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\VSPackage.resources
+C:\Users\Ricardo\Documents\bitbucket\develop\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\ShapeFX.Reload.Forms.AboutFrm.resources
+C:\Users\Ricardo\Documents\bitbucket\develop\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\ShapeFX.Reload.Resource1.resources
+C:\Users\Ricardo\Documents\bitbucket\develop\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\ShapeFX.Reload.csproj.GenerateResource.Cache
+C:\Users\Ricardo\Documents\bitbucket\develop\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\Reload.cto
+C:\Users\Ricardo\Documents\bitbucket\develop\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\VSCT.read.1.tlog
+C:\Users\Ricardo\Documents\bitbucket\develop\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\VSCT.write.1.tlog
+C:\Users\Ricardo\Documents\bitbucket\develop\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\CtoResourceMerger.cache
+C:\Users\Ricardo\Documents\bitbucket\develop\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\VSPackage.resources.original
+C:\Users\Ricardo\Documents\bitbucket\develop\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\ShapeFX.Reload.dll
+C:\Users\Ricardo\Documents\bitbucket\develop\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\ShapeFX.Reload.pdb
+C:\Users\Ricardo\Documents\bitbucket\develop\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\ShapeFX.Reload.pkgdef
+C:\Users\Ricardo\Documents\bitbucket\develop\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\ShapeFX.Reload.latest.pkgdef
+C:\Users\Ricardo\Documents\bitbucket\develop\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\extension.vsixmanifest
+\\psf\Home\Documents\Visual Studio 2013\Projects\ShapeFX\ShapeFX.Reload\ShapeFX.Reload\bin\Debug\refresh.vbs
+\\psf\Home\Documents\Visual Studio 2013\Projects\ShapeFX\ShapeFX.Reload\ShapeFX.Reload\bin\Debug\ShapeFX.Reload.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\ShapeFX\ShapeFX.Reload\ShapeFX.Reload\bin\Debug\ShapeFX.Reload.pdb
+\\psf\Home\Documents\Visual Studio 2013\Projects\ShapeFX\ShapeFX.Reload\ShapeFX.Reload\bin\Debug\ShapeFX.Reload.pkgdef
+\\psf\Home\Documents\Visual Studio 2013\Projects\ShapeFX\ShapeFX.Reload\ShapeFX.Reload\bin\Debug\ShapeFX.Reload.vsix
+\\psf\Home\Documents\Visual Studio 2013\Projects\ShapeFX\ShapeFX.Reload\ShapeFX.Reload\bin\Debug\extension.vsixmanifest
+\\psf\Home\Documents\Visual Studio 2013\Projects\ShapeFX\ShapeFX.Reload\ShapeFX.Reload\bin\Debug\Newtonsoft.Json.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\ShapeFX\ShapeFX.Reload\ShapeFX.Reload\bin\Debug\Newtonsoft.Json.xml
+\\psf\Home\Documents\Visual Studio 2013\Projects\ShapeFX\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\ShapeFX.Reload.csprojResolveAssemblyReference.cache
+\\psf\Home\Documents\Visual Studio 2013\Projects\ShapeFX\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\ShapeFX.Reload.csproj.ResolveComReference.cache
+\\psf\Home\Documents\Visual Studio 2013\Projects\ShapeFX\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\ShapeFX.Reload.g.resources
+\\psf\Home\Documents\Visual Studio 2013\Projects\ShapeFX\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\VSPackage.resources
+\\psf\Home\Documents\Visual Studio 2013\Projects\ShapeFX\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\ShapeFX.Reload.Forms.AboutFrm.resources
+\\psf\Home\Documents\Visual Studio 2013\Projects\ShapeFX\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\ShapeFX.Reload.Resource1.resources
+\\psf\Home\Documents\Visual Studio 2013\Projects\ShapeFX\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\ShapeFX.Reload.csproj.GenerateResource.Cache
+\\psf\Home\Documents\Visual Studio 2013\Projects\ShapeFX\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\Reload.cto
+\\psf\Home\Documents\Visual Studio 2013\Projects\ShapeFX\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\VSCT.read.1.tlog
+\\psf\Home\Documents\Visual Studio 2013\Projects\ShapeFX\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\VSCT.write.1.tlog
+\\psf\Home\Documents\Visual Studio 2013\Projects\ShapeFX\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\CtoResourceMerger.cache
+\\psf\Home\Documents\Visual Studio 2013\Projects\ShapeFX\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\VSPackage.resources.original
+\\psf\Home\Documents\Visual Studio 2013\Projects\ShapeFX\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\ShapeFX.Reload.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\ShapeFX\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\ShapeFX.Reload.pdb
+\\psf\Home\Documents\Visual Studio 2013\Projects\ShapeFX\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\ShapeFX.Reload.pkgdef
+\\psf\Home\Documents\Visual Studio 2013\Projects\ShapeFX\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\ShapeFX.Reload.latest.pkgdef
+\\psf\Home\Documents\Visual Studio 2013\Projects\ShapeFX\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\extension.vsixmanifest
+C:\Users\RBarbosa\Desktop\shapefx4\ShapeFX\ShapeFX.Reload\ShapeFX.Reload\bin\Debug\refresh.vbs
+C:\Users\RBarbosa\Desktop\shapefx4\ShapeFX\ShapeFX.Reload\ShapeFX.Reload\bin\Debug\ShapeFX.Reload.dll
+C:\Users\RBarbosa\Desktop\shapefx4\ShapeFX\ShapeFX.Reload\ShapeFX.Reload\bin\Debug\ShapeFX.Reload.pdb
+C:\Users\RBarbosa\Desktop\shapefx4\ShapeFX\ShapeFX.Reload\ShapeFX.Reload\bin\Debug\ShapeFX.Reload.pkgdef
+C:\Users\RBarbosa\Desktop\shapefx4\ShapeFX\ShapeFX.Reload\ShapeFX.Reload\bin\Debug\ShapeFX.Reload.vsix
+C:\Users\RBarbosa\Desktop\shapefx4\ShapeFX\ShapeFX.Reload\ShapeFX.Reload\bin\Debug\extension.vsixmanifest
+C:\Users\RBarbosa\Desktop\shapefx4\ShapeFX\ShapeFX.Reload\ShapeFX.Reload\bin\Debug\Newtonsoft.Json.dll
+C:\Users\RBarbosa\Desktop\shapefx4\ShapeFX\ShapeFX.Reload\ShapeFX.Reload\bin\Debug\Newtonsoft.Json.xml
+C:\Users\RBarbosa\Desktop\shapefx4\ShapeFX\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\ShapeFX.Reload.csprojResolveAssemblyReference.cache
+C:\Users\RBarbosa\Desktop\shapefx4\ShapeFX\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\ShapeFX.Reload.csproj.ResolveComReference.cache
+C:\Users\RBarbosa\Desktop\shapefx4\ShapeFX\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\ShapeFX.Reload.g.resources
+C:\Users\RBarbosa\Desktop\shapefx4\ShapeFX\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\VSPackage.resources
+C:\Users\RBarbosa\Desktop\shapefx4\ShapeFX\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\ShapeFX.Reload.Forms.AboutFrm.resources
+C:\Users\RBarbosa\Desktop\shapefx4\ShapeFX\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\ShapeFX.Reload.Resource1.resources
+C:\Users\RBarbosa\Desktop\shapefx4\ShapeFX\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\ShapeFX.Reload.csproj.GenerateResource.Cache
+C:\Users\RBarbosa\Desktop\shapefx4\ShapeFX\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\Reload.cto
+C:\Users\RBarbosa\Desktop\shapefx4\ShapeFX\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\VSCT.read.1.tlog
+C:\Users\RBarbosa\Desktop\shapefx4\ShapeFX\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\VSCT.write.1.tlog
+C:\Users\RBarbosa\Desktop\shapefx4\ShapeFX\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\CtoResourceMerger.cache
+C:\Users\RBarbosa\Desktop\shapefx4\ShapeFX\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\VSPackage.resources.original
+C:\Users\RBarbosa\Desktop\shapefx4\ShapeFX\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\ShapeFX.Reload.dll
+C:\Users\RBarbosa\Desktop\shapefx4\ShapeFX\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\ShapeFX.Reload.pdb
+C:\Users\RBarbosa\Desktop\shapefx4\ShapeFX\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\ShapeFX.Reload.pkgdef
+C:\Users\RBarbosa\Desktop\shapefx4\ShapeFX\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\ShapeFX.Reload.latest.pkgdef
+C:\Users\RBarbosa\Desktop\shapefx4\ShapeFX\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\extension.vsixmanifest
+C:\Users\Ricardo\Documents\Visual Studio 2013\Projects\ShapeFX\ShapeFX.Reload\ShapeFX.Reload\bin\Debug\refresh.vbs
+C:\Users\Ricardo\Documents\Visual Studio 2013\Projects\ShapeFX\ShapeFX.Reload\ShapeFX.Reload\bin\Debug\ShapeFX.Reload.dll
+C:\Users\Ricardo\Documents\Visual Studio 2013\Projects\ShapeFX\ShapeFX.Reload\ShapeFX.Reload\bin\Debug\ShapeFX.Reload.pdb
+C:\Users\Ricardo\Documents\Visual Studio 2013\Projects\ShapeFX\ShapeFX.Reload\ShapeFX.Reload\bin\Debug\ShapeFX.Reload.pkgdef
+C:\Users\Ricardo\Documents\Visual Studio 2013\Projects\ShapeFX\ShapeFX.Reload\ShapeFX.Reload\bin\Debug\ShapeFX.Reload.vsix
+C:\Users\Ricardo\Documents\Visual Studio 2013\Projects\ShapeFX\ShapeFX.Reload\ShapeFX.Reload\bin\Debug\extension.vsixmanifest
+C:\Users\Ricardo\Documents\Visual Studio 2013\Projects\ShapeFX\ShapeFX.Reload\ShapeFX.Reload\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ricardo\Documents\Visual Studio 2013\Projects\ShapeFX\ShapeFX.Reload\ShapeFX.Reload\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ricardo\Documents\Visual Studio 2013\Projects\ShapeFX\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\ShapeFX.Reload.csprojResolveAssemblyReference.cache
+C:\Users\Ricardo\Documents\Visual Studio 2013\Projects\ShapeFX\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\ShapeFX.Reload.csproj.ResolveComReference.cache
+C:\Users\Ricardo\Documents\Visual Studio 2013\Projects\ShapeFX\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\ShapeFX.Reload.g.resources
+C:\Users\Ricardo\Documents\Visual Studio 2013\Projects\ShapeFX\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\VSPackage.resources
+C:\Users\Ricardo\Documents\Visual Studio 2013\Projects\ShapeFX\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\ShapeFX.Reload.Forms.AboutFrm.resources
+C:\Users\Ricardo\Documents\Visual Studio 2013\Projects\ShapeFX\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\ShapeFX.Reload.Resource1.resources
+C:\Users\Ricardo\Documents\Visual Studio 2013\Projects\ShapeFX\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\ShapeFX.Reload.csproj.GenerateResource.Cache
+C:\Users\Ricardo\Documents\Visual Studio 2013\Projects\ShapeFX\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\Reload.cto
+C:\Users\Ricardo\Documents\Visual Studio 2013\Projects\ShapeFX\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\VSCT.read.1.tlog
+C:\Users\Ricardo\Documents\Visual Studio 2013\Projects\ShapeFX\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\VSCT.write.1.tlog
+C:\Users\Ricardo\Documents\Visual Studio 2013\Projects\ShapeFX\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\CtoResourceMerger.cache
+C:\Users\Ricardo\Documents\Visual Studio 2013\Projects\ShapeFX\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\VSPackage.resources.original
+C:\Users\Ricardo\Documents\Visual Studio 2013\Projects\ShapeFX\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\ShapeFX.Reload.dll
+C:\Users\Ricardo\Documents\Visual Studio 2013\Projects\ShapeFX\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\ShapeFX.Reload.pdb
+C:\Users\Ricardo\Documents\Visual Studio 2013\Projects\ShapeFX\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\ShapeFX.Reload.pkgdef
+C:\Users\Ricardo\Documents\Visual Studio 2013\Projects\ShapeFX\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\ShapeFX.Reload.latest.pkgdef
+C:\Users\Ricardo\Documents\Visual Studio 2013\Projects\ShapeFX\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\extension.vsixmanifest
+C:\Projects\ShapeFX\ShapeFX.Reload\ShapeFX.Reload\bin\Debug\refresh.vbs
+C:\Projects\ShapeFX\ShapeFX.Reload\ShapeFX.Reload\bin\Debug\ShapeFX.Reload.dll
+C:\Projects\ShapeFX\ShapeFX.Reload\ShapeFX.Reload\bin\Debug\ShapeFX.Reload.pdb
+C:\Projects\ShapeFX\ShapeFX.Reload\ShapeFX.Reload\bin\Debug\ShapeFX.Reload.pkgdef
+C:\Projects\ShapeFX\ShapeFX.Reload\ShapeFX.Reload\bin\Debug\ShapeFX.Reload.vsix
+C:\Projects\ShapeFX\ShapeFX.Reload\ShapeFX.Reload\bin\Debug\extension.vsixmanifest
+C:\Projects\ShapeFX\ShapeFX.Reload\ShapeFX.Reload\bin\Debug\Newtonsoft.Json.dll
+C:\Projects\ShapeFX\ShapeFX.Reload\ShapeFX.Reload\bin\Debug\Newtonsoft.Json.xml
+C:\Projects\ShapeFX\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\ShapeFX.Reload.csproj.ResolveComReference.cache
+C:\Projects\ShapeFX\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\ShapeFX.Reload.g.resources
+C:\Projects\ShapeFX\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\VSPackage.resources
+C:\Projects\ShapeFX\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\ShapeFX.Reload.Forms.AboutFrm.resources
+C:\Projects\ShapeFX\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\ShapeFX.Reload.Resource1.resources
+C:\Projects\ShapeFX\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\ShapeFX.Reload.csproj.GenerateResource.Cache
+C:\Projects\ShapeFX\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\Reload.cto
+C:\Projects\ShapeFX\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\VSCT.read.1.tlog
+C:\Projects\ShapeFX\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\VSCT.write.1.tlog
+C:\Projects\ShapeFX\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\CtoResourceMerger.cache
+C:\Projects\ShapeFX\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\VSPackage.resources.original
+C:\Projects\ShapeFX\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\ShapeFX.Reload.dll
+C:\Projects\ShapeFX\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\ShapeFX.Reload.pdb
+C:\Projects\ShapeFX\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\ShapeFX.Reload.pkgdef
+C:\Projects\ShapeFX\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\ShapeFX.Reload.latest.pkgdef
+C:\Projects\ShapeFX\ShapeFX.Reload\ShapeFX.Reload\obj\Debug\extension.vsixmanifest
