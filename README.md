@@ -8,4 +8,4 @@ Once installed you will see the Reload menu option in the Visual Studio toolbar.
 
 Currently only Chrome, Firefox and IE are supported.
  
-That's it nothing else.
+
