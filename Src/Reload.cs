@@ -59,7 +59,7 @@ namespace Reload
 
         public Reload()
         {
-            Debug.WriteLine(string.Format(CultureInfo.CurrentCulture, "Entering constructor for: {0}", this.ToString()));
+            //Debug.WriteLine(string.Format(CultureInfo.CurrentCulture, "Entering constructor for: {0}", this.ToString()));
             _dte = new Lazy<DTE2>(() => ServiceProvider.GlobalProvider.GetService(typeof(EnvDTE.DTE)) as DTE2);
             _events = new Lazy<EnvDTE.Events>(() => _dte.Value.Events);
             _documentEvents = new Lazy<EnvDTE.DocumentEvents>(() => _events.Value.DocumentEvents);
@@ -98,7 +98,7 @@ namespace Reload
         /// </summary>
         protected override void Initialize()
         {
-            Debug.WriteLine(string.Format(CultureInfo.CurrentCulture, "Entering Initialize() of: {0}", this.ToString()));
+           // Debug.WriteLine(string.Format(CultureInfo.CurrentCulture, "Entering Initialize() of: {0}", this.ToString()));
             base.Initialize();
 
             //_keyPressEvents.Value.AfterKeyPress += Value_AfterKeyPress;
@@ -164,6 +164,8 @@ namespace Reload
             var isweb = this.IsWebProject(document.ProjectItem.ContainingProject);
             var selection = textDoc.Selection.ActivePoint;
 
+            
+
 
 
             //if ((document.FullName.Contains(".shape") && text.Contains("[Sync]")) || (document.FullName.Contains(".cs") && text.Contains("[Sync]") && isweb) || document.FullName.Contains(".cshtml") || document.FullName.Contains(".html"))
@@ -172,6 +174,8 @@ namespace Reload
 
             if (refresh)
             {
+                _dte.Value.Solution.SolutionBuild.Build(true);
+
                 this.Refresh(this._refreshChrome, this._refreshFirefox, this._refreshIE);
 
                 document.ActiveWindow.Activate();
